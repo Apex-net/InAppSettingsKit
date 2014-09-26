@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
     s.platform = :ios, '5.0'
     s.source_files = 'InAppSettingsKit/**/*.{h,m}'
     s.requires_arc = true
-    s.frameworks = 'MessageUI',
+    s.frameworks = 'MessageUI'
 end
